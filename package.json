@@ -1,0 +1,26 @@
+{
+  "name": "shuttle-js",
+  "version": "1.0.0",
+  "description": "Marathon event listener and Big-IP F5 updater.",
+  "main": "sse-client.js",
+  "dependencies": {
+    "eventsource": "^0.2.1",
+    "express": "^4.13.4",
+    "icontrol": "^0.1.5",
+    "node-persist": "^2.0.2",
+    "sse": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "marathon",
+    "mesos",
+    "bigip",
+    "f5",
+    "events"
+  ],
+  "author": "Adam Avilla",
+  "license": "MIT"
+}
